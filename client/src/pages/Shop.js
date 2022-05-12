@@ -83,7 +83,7 @@ const products = [
         imageAlt: 'White fabric pouch with white zipper, black zipper pull, and black elastic loop.',
     },
     {
-        id: 4,
+        id: 5,
         name: 'Zip Tote Basket',
         href: '#',
         price: '$140',
